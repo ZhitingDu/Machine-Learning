@@ -9,4 +9,5 @@ Showing the usage of several data manipulation methods.
 🔺 Dataset description
 The feature dataset consists of 1567 examples each with 590 features.
 The lable dataset contains the binary target column, “ –1” corresponds to a pass with 1463 cases and “1” corresponds to a fail with 104 cases.
-![image](https://user-images.githubusercontent.com/75202194/235457817-b8d1ab64-83e5-4b69-a5be-7e187f6bcd45.png)
+🔺 Key steps
+Features selection by missing values, variance, PCA, Boruta algorithm
