@@ -6,8 +6,10 @@
 Predict the Pass/Fail result
 Evaluation whether all the features are contributed to build the model or not 
 Showing the usage of several data manipulation methods.
+
 🔺 Dataset description:
 The feature dataset consists of 1567 examples each with 590 features.
 The lable dataset contains the binary target column, “ –1” corresponds to a pass with 1463 cases and “1” corresponds to a fail with 104 cases.
+
 🔺 Key steps:
 Features selection by missing values, variance, PCA, Boruta algorithm
