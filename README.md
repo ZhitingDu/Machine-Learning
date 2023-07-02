@@ -12,4 +12,4 @@ The feature dataset consists of 1567 examples each with 590 features.
 The lable dataset contains the binary target column, “ –1” corresponds to a pass with 1463 cases and “1” corresponds to a fail with 104 cases.
 
 🔺 Key functions:
-Missing values, variance, PCA, Boruta algorithm; Sklearn, SMOTE
+sklearn, imblearn, PCA, Boruta  
