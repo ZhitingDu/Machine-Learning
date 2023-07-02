@@ -1,5 +1,5 @@
 # Machine-Learning-Project
-## Semiconductor_Manufacturing_Data_Case Study
+## Case 1: Semiconductor_Manufacturing_Data
 ![image](https://user-images.githubusercontent.com/75202194/235457784-56e99f92-e978-427e-9650-51bc826130c0.png)
 
 🔺Objective:
