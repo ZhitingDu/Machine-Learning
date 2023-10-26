@@ -13,3 +13,7 @@ The lable dataset contains the binary target column, “ –1” corresponds to 
 
 🔺 Key functions:
 sklearn, imblearn, PCA, Boruta, pandas, numpy, seaborn, matplotlib
+
+
+## Case 2: Geospatial data - Comfort Ride
+![image](https://github.com/ZhitingDu/Machine-Learning/assets/75202194/0a0251f2-68c2-433e-8af8-54bb49df2af5)
